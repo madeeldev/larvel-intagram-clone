@@ -1,1 +1,1 @@
-Web application having functionalities like instagram crated using laravel. 
+Web application having functionality like instagram crated using laravel. 
